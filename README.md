@@ -8,6 +8,4 @@ Version 2: en esta versión añadimos las funciones para el trabajo con el fiche
 
 Version 3: en esta versión añadimos al software los datos sobre la disposición del aeropuerto con sus diferentes terminales y zonas de embarque y leemos los datos sobre la disposición de puertas y zonas segun tipo de vuelo y aerolínea para después poder proceder a la asignación de puertas a cada vuelo. Además, elaboramos un gráfico representativo de las diferentes zonas que, junto con un código de color, muestran la ocupación de cada gate del aeropuerto. LINK VIDEO DRIVE: https://drive.google.com/file/d/1kDI3z2_ifT29HTp7ISp2cw39xi-SONJQ/view?usp=sharing
 
-Version 3: en esta versión añadimos al software los datos sobre la disposición del aeropuerto con sus diferentes terminales y zonas de embarque y leemos los datos sobre la disposición de puertas y zonas segun tipo de vuelo y aerolínea para después poder proceder a la asignación de puertas a cada vuelo. Además, elaboramos un gráfico representativo de las diferentes zonas que, junto con un código de color, muestran la ocupación de cada gate del aeropuerto. LINK VIDEO DRIVE: https://drive.google.com/file/d/1kDI3z2\_ifT29HTp7ISp2cw39xi-SONJQ/view?usp=sharing
 
-(Update README with version 3)
